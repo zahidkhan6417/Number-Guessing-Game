@@ -14,21 +14,21 @@ __If you want to understand the basics of DOM manipulation with example you can 
 ![Screenshot (2)](https://github.com/zahidkhan6417/Number-Guessing-Game/assets/66198430/6b612bd6-fa4a-4512-911d-c874568052fa)
 
 # Features
-Random number generation for the player to guess.
-Win/Lose game logic.
-High score tracking.
-"Play Again" button for restarting the game.
-Interactive user interface with DOM manipulation.
+- Random number generation for the player to guess.
+- Win/Lose game logic.
+- High score tracking.
+- "Again" button for restarting the game.
+- Interactive user interface with DOM manipulation.
 
 # DOM Manipulation
-The project utilizes DOM manipulation techniques, including:
-querySelector to select and manipulate elements.
-getElementById to access specific elements by their unique identifiers.
-Dynamic CSS and HTML changes through JavaScript for an interactive user experience.
+- The project utilizes DOM manipulation techniques, including:
+- querySelector to select and manipulate elements.
+- getElementById to access specific elements by their unique identifiers.
+- Dynamic CSS and HTML changes through JavaScript for an interactive user experience.
 
 # Built With
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 __Thank you__
