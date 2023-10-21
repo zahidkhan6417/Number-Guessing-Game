@@ -10,6 +10,7 @@ I utilized getElementById to access elements with unique identifiers directly. T
 DOM manipulation enabled me to dynamically change the content and appearance of the web page based on game events. For example, when a player wins or loses, I used DOM manipulation to update the text and styles.
 
 __If you want to understand the basics of DOM manipulation with example you can check this basic project.__
+# Demo
 ![Screenshot (2)](https://github.com/zahidkhan6417/Number-Guessing-Game/assets/66198430/6b612bd6-fa4a-4512-911d-c874568052fa)
 
 # Features
